@@ -4,6 +4,7 @@ body {text-align: center;
     color: white;
 }
 
-div {text-align: left; display: block;
+body {text-align: left; display: block;
     margin: auto;
-    width: 45%}
+    width: 45%;}
+head {text-align:left; display:block; Margin: auto; width 45%;}
